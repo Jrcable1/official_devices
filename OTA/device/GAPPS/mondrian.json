@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Keosh",
+                        "oem": "Xiaomi",
+                        "device": "mondrian",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020614-GAPPS-OFFICIAL-mondrian-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/mondrian/RisingOS_Revived-6.2.1-STABLE-25020614-GAPPS-OFFICIAL-mondrian-ota-signed.zip/download",
+                        "timestamp": 1738852259,
+                        "md5": "4ae46bd2a15b262390823b25f27bd067",
+                        "sha256": "c20c122a2bfd540007deda3aa431b371bda0b9fea3d8da91e9cfdda2de7ab385",
+                        "size": 3186064212,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "t.me/keoshlapgroup"
+                }
+        ]
+}
